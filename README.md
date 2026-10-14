@@ -1,7 +1,7 @@
 """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Paul Vella
+**Formation :** L3 Économie 
 **Année :** 2026-2027
 
 ## Description
@@ -22,4 +22,4 @@ Python & Data Science réalisés sur Google Colab.
 Cours de M. Guéry — Faculté d'Économie, UPJV
 """
 
-print(README)
+
